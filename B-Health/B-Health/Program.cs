@@ -12,6 +12,7 @@ namespace B_Health
         {
             Console.WriteLine("Ovo je grana Proba");
             Console.WriteLine("Pokusaj");
+            Console.WriteLine("Katica je zakon");
         }
     }
 }
