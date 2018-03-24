@@ -10,7 +10,7 @@ namespace B_Health
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine("Ovo je grana Proba");
         }
     }
 }
